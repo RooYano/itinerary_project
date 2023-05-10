@@ -77,3 +77,5 @@ app.listen(port, () => {
 
 ---------------------------------------------------------------------
 ![alt text](ULM.png)
+
+The sketch of how data request works through the client (browser), server and database. 
